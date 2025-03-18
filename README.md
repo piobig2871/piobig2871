@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Experienced+Software+Engineer;Python+%7C+DevOps+%7C+Cloud;Open+Source+Contributor+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Software+Engineer;Python+%7C+DevOps+%7C+Cloud;Open+Source+Contributor+%F0%9F%9A%80" />
 </p>
 
 ---
